@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi there
 
-<!--
-**MohammadElSakka/MohammadElSakka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a multidisciplinary AI developer & researcher based in Toulouse, France 🇫🇷 that is passionate about machine learning, computer vision, multimodal AI, and remote sensing.
+I design end-to-end intelligent systems — from R&D and model design to full-stack implementation, MLOps, and cloud/HPC deployment.
 
-Here are some ideas to get you started:
+## 🔧 Interests & Skills
+### 🤖 Artificial Intelligence & ML
+### 🛠️ MLOps & DevOps
+### 📊 Data Science
+### 🛰️ Remote Sensing
+### 🌐 Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Find Me Online
+
+💼 LinkedIn: [linkedin.com/in/mohammad-el-sakka](linkedin.com/in/mohammad-el-sakka)  
+🧑‍💻 GitHub: [github.com/MohammadElSakka](github.com/MohammadElSakka)    
+📚 Scholar: [scholar.google.com/citations?user=EJbfLNgAAAAJ](https://scholar.google.com/citations?user=EJbfLNgAAAAJ)  
+📧 Email: mohammad.el-sakka@outlook.com  
+
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadElSakka&show_icons=true&hide_border=false) 
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammadElSakka)](https://git.io/streak-stats) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadElSakka&layout=compact&hide_border=false)  -->
